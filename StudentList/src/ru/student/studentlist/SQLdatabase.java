@@ -12,7 +12,7 @@ import android.view.View;
 import android.widget.TextView;
 
 public class SQLdatabase extends Activity {
-//Р’РѕРґРёРј Рё СЃРѕС…СЂР°РЅСЏРµРј РґР°РЅРЅС‹Рµ РІ С„Р°Р№Р»
+//Водим и сохраняем данные в файл
     final String LOG_TAG = "myLogsSQL";
     TextView textView;
     /** Called when the activity is first created. */
