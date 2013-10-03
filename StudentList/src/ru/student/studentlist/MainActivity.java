@@ -44,7 +44,7 @@ public class MainActivity extends Activity implements OnClickListener{
          
         page = inflater.inflate(R.layout.page, null);
         textView = (TextView) page.findViewById(R.id.text_view);
-        textView.setText("РЎС‚СЂР°РЅРёС†Р° 2");
+        textView.setText("Странеица  2");
         pages.add(page);
          
         SamplePagerAdapter pagerAdapter = new SamplePagerAdapter(pages);
